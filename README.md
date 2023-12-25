@@ -8,6 +8,6 @@ Somos codigo aberto,então,não se preocupe em bloatware/malware.
 
 ## Sobre os criadores:
 ### Hyu: Co-criador/co-designer
-hyu e um programador,criador de jogos,editor de videos e imagens e musico
+hyu e um programador,criador de jogos,editor de videos e imagens e musico.
 ele e conhecido pelo canal do youtube: hyuuwu ou pelo xbox dele
 ### Linux user: Criadora/designer
