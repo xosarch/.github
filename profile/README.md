@@ -1,14 +1,11 @@
 # X os.
-x os é seu novo os.
-baseado em arch,somos uma distro diferenciada,com temas lindos.
-focamos na estetica,enquanto trazemos optimização para todos.
-Somos codigo aberto,então,não se preocupe em bloatware/malware.
+x os is your new os. Based on arch, we are a different distro, with beautiful themes. We focus on aesthetics, while bringing optimization to everyone. We are open source, so don't worry about bloatware/malware.
 
 
 
-## Sobre os criadores:
-### Hyu: Co-criador/co-designer
-hyu e um programador,criador de jogos,editor de videos e imagens e musico.
-ele e conhecido pelo canal do youtube: hyuuwu ou pelo xbox dele
-### Lu: Criadora/designer
-Lu é uma desginer, editora de vídeo e ama informática, também gosta de linux e odeia systemd.
+## About the creators:
+### Hyu: Co-creator/co-designer
+hyu is a programmer, game creator, video and image editor and musician.
+He is known for his YouTube channel: hyuuwu or his Xbox
+### Lu: creator/designer
+Lu is a designer, video editor and loves computers, she also likes Linux and hates systemd.
